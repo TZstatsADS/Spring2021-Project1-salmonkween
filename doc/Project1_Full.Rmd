@@ -1,10 +1,10 @@
 ---
 title: 'A glimpse into the voters demographics: Democrats vs Republicans'
-author: "WendyD"
-date: "9/21/2020"
+author: "Wendy Doan"
+date: "01/25/2021"
 output:
-  html_document: default
   pdf_document: default
+  html_document: default
 editor_options:
   chunk_output_type: console
 ---
